@@ -43,3 +43,9 @@ I've spent 14+ years in SAP, and I take enterprise programmes from technical des
 | 2015 – 2020 | Application Development Senior Analyst | Accenture |
 | 2015 | SAP Personas & UI5 Technical Consultant | NTT DATA |
 | 2012 – 2015 | ABAP Technical Consultant | Porus Software Consultants (Dr. Reddy's) |
+
+---
+
+### 📫 Get in touch
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/viswakamal-kondapally-430088176)
